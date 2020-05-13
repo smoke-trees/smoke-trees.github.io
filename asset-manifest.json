@@ -1,17 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.5d4bfac3.chunk.css",
-    "main.js": "/static/js/main.900a436b.chunk.js",
-    "main.js.map": "/static/js/main.900a436b.chunk.js.map",
+    "main.js": "/static/js/main.4f2ac228.chunk.js",
+    "main.js.map": "/static/js/main.4f2ac228.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.dba3eeae.js",
     "runtime-main.js.map": "/static/js/runtime-main.dba3eeae.js.map",
     "static/css/2.06565635.chunk.css": "/static/css/2.06565635.chunk.css",
-    "static/js/2.1bee0b37.chunk.js": "/static/js/2.1bee0b37.chunk.js",
-    "static/js/2.1bee0b37.chunk.js.map": "/static/js/2.1bee0b37.chunk.js.map",
+    "static/js/2.f757c3ec.chunk.js": "/static/js/2.f757c3ec.chunk.js",
+    "static/js/2.f757c3ec.chunk.js.map": "/static/js/2.f757c3ec.chunk.js.map",
     "static/js/3.b7f8bed2.chunk.js": "/static/js/3.b7f8bed2.chunk.js",
     "static/js/3.b7f8bed2.chunk.js.map": "/static/js/3.b7f8bed2.chunk.js.map",
+    "about.html": "/about.html",
+    "contact.html": "/contact.html",
     "index.html": "/index.html",
-    "precache-manifest.0e843f73041a9b5d6d56e077b64457a2.js": "/precache-manifest.0e843f73041a9b5d6d56e077b64457a2.js",
+    "precache-manifest.4fd0d2d80b44984642d113ffebc6ba22.js": "/precache-manifest.4fd0d2d80b44984642d113ffebc6ba22.js",
+    "projects.html": "/projects.html",
     "service-worker.js": "/service-worker.js",
     "static/css/2.06565635.chunk.css.map": "/static/css/2.06565635.chunk.css.map",
     "static/css/main.5d4bfac3.chunk.css.map": "/static/css/main.5d4bfac3.chunk.css.map",
@@ -27,13 +30,14 @@
     "static/media/undraw_scrum_board_cesn.svg": "/static/media/undraw_scrum_board_cesn.4771497d.svg",
     "static/media/undraw_team_spirit_hrr4.svg": "/static/media/undraw_team_spirit_hrr4.e0c5e9ab.svg",
     "static/media/undraw_terms_lso0.svg": "/static/media/undraw_terms_lso0.4918c459.svg",
-    "static/media/version-control.svg": "/static/media/version-control.fb5ec271.svg"
+    "static/media/version-control.svg": "/static/media/version-control.fb5ec271.svg",
+    "team.html": "/team.html"
   },
   "entrypoints": [
     "static/js/runtime-main.dba3eeae.js",
     "static/css/2.06565635.chunk.css",
-    "static/js/2.1bee0b37.chunk.js",
+    "static/js/2.f757c3ec.chunk.js",
     "static/css/main.5d4bfac3.chunk.css",
-    "static/js/main.900a436b.chunk.js"
+    "static/js/main.4f2ac228.chunk.js"
   ]
 }
